@@ -24,4 +24,4 @@ Please contact me if you wish to use any of this artwork for commercial purposes
 
 
 
-![preview](https://github.com/ashleymcnamara/artwork/blob/master/collage3.jpg)
+![preview](https://github.com/ashleymcnamara/Developer-Advocate-Bit/blob/master/collage.jpg)
