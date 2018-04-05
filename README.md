@@ -15,7 +15,7 @@ The application used to create this artwork is Adobe Illustrator.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Please contact me if you wish to use any of this artwork for commercial purposes (anywhere revenue is obtained, including advertising).
+Please contact me if you wish to use any of this artwork for commercial purposes (anywhere revenue is obtained, including advertising). Also, please contact me before altering any of the designs. 
 
 
 ## Find me on Twitter:
